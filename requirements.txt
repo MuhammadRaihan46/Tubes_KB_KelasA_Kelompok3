@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+numpy
+pandas
+scikit-learn
+openpyxl
+tensorflow
+scikit-fuzzy
+joblib
+matplotlib
