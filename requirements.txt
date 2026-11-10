@@ -5,5 +5,6 @@ scikit-learn
 openpyxl
 tensorflow
 scikit-fuzzy
+networkx
 joblib
 matplotlib
